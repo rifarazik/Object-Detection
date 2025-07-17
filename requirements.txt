@@ -1,0 +1,6 @@
+opencv-python
+numpy
+face-recognition
+torch
+torchvision
+requests
